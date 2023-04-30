@@ -4,6 +4,7 @@ Description : This Issue Tracking System was released for SoftDesk a software de
 This solution is aimed at B2B customers. 
 
 This project was built on Python 3.11
+
 Setup :
 
 - Download this project
